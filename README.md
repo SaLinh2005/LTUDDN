@@ -1,6 +1,6 @@
 # ⚡ No-Code Workflow Automation
 ## 🎯Tác giả
-Sa Linh, Thảo, Trang, Thư
+Sa Linh
 
 ## 📖 Mô tả dự án
 Dự án là một nền tảng No-code trực quan giúp người dùng dễ dàng thiết lập, tự động hóa và quản lý các quy trình làm việc (workflow), lưu lại audit log  mà không cần can thiệp vào mã nguồn. Hệ thống cung cấp giải pháp toàn diện để kết nối các dịch vụ và tự động hóa các tác vụ lặp đi lặp lại một cách liền mạch.
